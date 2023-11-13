@@ -1,2 +1,2 @@
 # DOOMEternalSpeedrunMod
-DOOM Eternal speedrun modification which removes annoying (for speedrunning) stuff
+DOOM Eternal modification which removes annoying (for speedrunning) stuff
