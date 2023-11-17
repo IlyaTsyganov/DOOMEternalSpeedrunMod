@@ -35,7 +35,6 @@ DOOM Eternal modification which removes annoying (for speedrunning) stuff
 14. Add teleporter to skip to skip the elevator before "Station of Annointment"
 15. Removing the cutscene, faster gate opening in "Station of Annointment"
 16. End of the Level after activating the skull switcher on a train 
-remove item[0] (game_func_spectacle_camera_8)
 
 
 
