@@ -18,4 +18,24 @@ DOOM Eternal modification which removes annoying (for speedrunning) stuff
 4. Remove "Dour Slough 1" delays
 5. Remove portal cutscene and delays in "Isle of Torment"
 
+# Cultist Base
+1. Remove delays in "First Trap Room 1", make floor button be activated faster and removed 12 second delay in "First Trap Room 2"
+2. Remove delay in "Station of Inquisition"
+3. Remove delays in "Base Entrance", removed cutscene
+4. Add teleporter to skip the elevator ride after "Base Entrance", add faster button activation(for this, I added custom volume trigger near the portal)
+5. Remove SSG cutscene, add faster pit floor and cell doors, remove delays in "Pit"
+6. Faster gate opening after skull switch
+7. Remove delay in "Shifting Elevators"
+8. Faster elevator ride before "Steven"
+9. Remove cutscene and delays in "Steven", SSG podium descends faster
+10. Faster elevator after "Forge of Transfiguration"
+11. Remove delay in "Promenade of Culling", remove cutscene and add faster door opening
+12. Faster button activation and remove the cutscene and teleportation after punchin Goroth in "Final Cultist Key Door"
+13. Faster elevator and faster button activation after Goroth
+14. Add teleporter to skip to skip the elevator before "Station of Annointment"
+15. Removing the cutscene, faster gate opening in "Station of Annointment"
+16. End of the Level after activating the skull switcher on a train 
+remove item[0] (game_func_spectacle_camera_8)
+
+
 
