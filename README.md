@@ -54,5 +54,5 @@ DOOM Eternal modification which removes annoying (for speedrunning) stuff
 
 # ARC Complex
 1. Add teleporters to skip "Emerson Hotel 1", Arc Turret and after "Overdrive" elevators
-
+2. Removed delays in "ARC Command"
 
