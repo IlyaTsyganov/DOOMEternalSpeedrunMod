@@ -36,5 +36,23 @@ DOOM Eternal modification which removes annoying (for speedrunning) stuff
 15. Removing the cutscene, faster gate opening in "Station of Annointment"
 16. End of the Level after activating the skull switcher on a train 
 
+# Doom Hunter Base
+1. Removed 1 delay in "Train"
+2. Removed delay before teleportation to train, add teleporters to train, speed up the train
+3. "Station of Redemption" is like in 1.1 version (no extra demons)
+4. Removed delay in "First Laser Room"
+5. Removed delays and cutscene in "Tower of Baphomet"
+
+# Super Gore Nest
+1. Removed delay before the cutscene in "Mixom Square"
+2. Removed delay of main portal appearing in "First Buff Totem"
+3. Removed delay in "Vermilion Canal 1"
+4. Remove cutscene after yellow key use and make faster teleportation:
+5. Removed delay after "Portal to Industrial Zone"
+6. Remove cutscene of the teeth door opening after activation the skull switcher, faster teeth door opening:
+7. Move last door in escape sequence
+
+# ARC Complex
+1. Add teleporters to skip "Emerson Hotel 1", Arc Turret and after "Overdrive" elevators
 
 
