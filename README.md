@@ -1,5 +1,6 @@
 # DOOMEternalSpeedrunMod
-DOOM Eternal modification which removes annoying (for speedrunning) stuff
+DOOM Eternal modification which removes annoying (for speedrunning) stuff <br/>
+**NB!** You need to have meath00k being activated, otherwise some changes won't be applied!<br/>
 # General changes
 1. Remove sentinel crystal/modbot/rune pickup animations
 2. Remove battery insertion and Unmaykr case interaction animations
