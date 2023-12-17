@@ -1,5 +1,5 @@
 # DOOMEternalSpeedrunMod
-## [[ DOWNLOAD LINK ]](https://github.com/IlyaTsyganov/DOOMEternalSpeedrunMod/releases/tag/beta_v1.7)
+## [[ DOWNLOAD LINK ]](https://github.com/IlyaTsyganov/DOOMEternalSpeedrunMod/releases/tag/beta_v1.7.1)
 DOOM Eternal modification which removes annoying (for speedrunning) stuff <br/>
 **NB!** You need to have meath00k being activated, otherwise some changes won't be applied!<br/>
 # General changes
