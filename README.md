@@ -30,7 +30,7 @@ Portal spawns faster after configuring it (pressing the main console button)
 1.Remove delay before main console becomes active
 ## From Sentinel Prime
 1.Remove delay before main console becomes active
-## After Taras Nabad
+## From Taras Nabad
 1.Remove delay before main console becomes active
 
 # Hell on Earth
